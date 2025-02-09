@@ -11,34 +11,41 @@ For Demo checkout following link👇: <br />
 
 Starter Code Files👇: <br />
 ➡ Link 💚: [Nextjs Creative Portfolio Website Starter Code](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files) <br />
+
 <!--- ➡ Link 2💚(If you want to support): [Nextjs Creative Portfolio Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br /> --->
 
 If you want to learn how to create it please follow below tutorial👇: <br />
-➡ Tutorial Link 💚: [Personal Portfolio Website with Next.js, Three.js & Tailwind CSS Tutorial](https://youtu.be/T5t46vuW8fo) 
-[![YouTube Video Views](https://img.shields.io/youtube/views/T5t46vuW8fo
-)](https://youtu.be/T5t46vuW8fo) <br />
+➡ Tutorial Link 💚: [Personal Portfolio Website with Next.js, Three.js & Tailwind CSS Tutorial](https://youtu.be/T5t46vuW8fo)
+[![YouTube Video Views](https://img.shields.io/youtube/views/T5t46vuW8fo)](https://youtu.be/T5t46vuW8fo) <br />
 
 💚 Checkout my personal website [DevDreaming](https://devdreaming.com) <br />
 
 ---
+
 # ⭐DO NOT FORGET TO STAR THIS REPO⭐
+
 ---
 
 ## Images of The Portfolio Website:
 
 #### Home
+
 ![Nextjs Creative Portfolio Website](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-desktop.png)
 
 #### About
+
 ![Nextjs Creative Portfolio Website About Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-desktop-full.png)
 
 #### Projects
+
 ![Next.js Creative Portfolio Website Projects Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-desktop.png)
 
 #### Contact
+
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-desktop.png)
 
 #### Mobile Version
+
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-mobile.png)
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-mobile.png)
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-mobile.png)
@@ -72,7 +79,7 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 - Emails using [Emailjs](https://www.emailjs.com/) <br />
 - Convert 3d models to JSX using [Gltf JSX](https://github.com/pmndrs/gltfjsx)
 
-#### Audio 
+#### Audio
 
 - Music by <a href="https://pixabay.com/users/shidenbeatsmusic-25676252/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20772">Shiden Beats Music</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20772">Pixabay</a>
 
@@ -97,3 +104,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+for you sam,
+to add project there is a data.js page add in in
+remember when you commit dont forget to go to dir and selsce and move to Next.js-Creative-Portfolio-Website
