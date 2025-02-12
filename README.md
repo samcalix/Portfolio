@@ -108,3 +108,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 for you sam,
 to add project there is a data.js page add in in
 remember when you commit dont forget to go to dir and selsce and move to Next.js-Creative-Portfolio-Website
+git init 
+git add.
+git commit

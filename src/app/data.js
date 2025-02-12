@@ -18,7 +18,7 @@ Websites:
 
 export const projectsData = [
   {
-    id: 3,
+    id: 1,
     name: "Nostra",
     description: "Ecommerce Website",
     date: "2024-01-15",
@@ -32,11 +32,11 @@ export const projectsData = [
     demoLink: "https://tic-tak-toe-three-gamma.vercel.app/",
   },
   {
-    id: 1,
+    id: 3,
     name: "Counter-app",
     description: "Helps to count",
     date: "2025-02-09",
-    demoLink: "https://roaring-pika-c87a1b.netlify.app/",
+    demoLink: "https://inquisitive-unicorn-9cd7ed.netlify.app/",
   },
   // {
   //   id: 4,
