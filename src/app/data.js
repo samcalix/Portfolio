@@ -38,13 +38,13 @@ export const projectsData = [
     date: "2025-02-09",
     demoLink: "https://inquisitive-unicorn-9cd7ed.netlify.app/",
   },
-  // {
-  //   id: 4,
-  //   name: "HealthBeat",
-  //   description: "Monitor heart rate zones",
-  //   date: "2022-05-30",
-  //   demoLink: "https://healthbeat.example.com",
-  // },
+  {
+    id: 4,
+    name: "leads-tracker-extension",
+    description: "Chrome extension",
+    date: "2025-02-28",
+    demoLink: "https://healthbeat.example.com",
+  },
   // {
   //   id: 5,
   //   name: "RecipeFinder",
