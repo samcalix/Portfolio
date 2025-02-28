@@ -43,7 +43,7 @@ export const projectsData = [
     name: "leads-tracker-extension",
     description: "Chrome extension",
     date: "2025-02-28",
-    demoLink: "https://healthbeat.example.com",
+    demoLink: "https://github.com/samcalix/leads-tracker-extension.git",
   },
   // {
   //   id: 5,
