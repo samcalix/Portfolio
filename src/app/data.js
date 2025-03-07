@@ -41,7 +41,7 @@ export const projectsData = [
   {
     id: 4,
     name: "leads-tracker-extension",
-    description: "Chrome extension",
+    description: "Chrome extension to save urls",
     date: "2025-02-28",
     demoLink: "https://github.com/samcalix/leads-tracker-extension.git",
   },
